@@ -1,0 +1,12 @@
+{
+  "name": "tickets",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node tickets.ts",
+    "check": "tsc --noEmit tickets.ts"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.0"
+  }
+}

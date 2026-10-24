@@ -14,6 +14,7 @@ Every chapter lives in its own folder under `chapters/` and runs on its own. Pic
 | # | Chapter | Folder |
 |---|---------|--------|
 | 01 | Run TypeScript Without a Build Step | [chapters/01-run-typescript-without-a-build-step](chapters/01-run-typescript-without-a-build-step) |
+| 02 | Functions That Keep Their Promises | [chapters/02-functions-that-keep-their-promises](chapters/02-functions-that-keep-their-promises) |
 
 More chapters are added as the series is released.
 
