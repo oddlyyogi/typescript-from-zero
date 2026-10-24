@@ -15,6 +15,7 @@ Every chapter lives in its own folder under `chapters/` and runs on its own. Pic
 |---|---------|--------|
 | 01 | Run TypeScript Without a Build Step | [chapters/01-run-typescript-without-a-build-step](chapters/01-run-typescript-without-a-build-step) |
 | 02 | Functions That Keep Their Promises | [chapters/02-functions-that-keep-their-promises](chapters/02-functions-that-keep-their-promises) |
+| 03 | Shaping Data | [chapters/03-shaping-data-objects-arrays-and-tuples](chapters/03-shaping-data-objects-arrays-and-tuples) |
 
 More chapters are added as the series is released.
 
