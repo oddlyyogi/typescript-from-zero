@@ -1,0 +1,29 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        chapter:
+          - chapters/01-run-typescript-without-a-build-step
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Install
+        working-directory: ${{ matrix.chapter }}
+        run: npm install
+      - name: Type-check
+        working-directory: ${{ matrix.chapter }}
+        run: npm run check
+      - name: Run
+        working-directory: ${{ matrix.chapter }}
+        run: npm start
