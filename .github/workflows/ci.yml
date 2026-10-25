@@ -20,6 +20,7 @@ jobs:
           - chapters/06-constants-without-enums-as-const
           - chapters/07-modules-import-export-and-type-only-imports
           - chapters/08-classes-without-baggage
+          - chapters/09-generics-write-it-once-use-it-safely
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4

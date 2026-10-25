@@ -21,6 +21,7 @@ Every chapter lives in its own folder under `chapters/` and runs on its own. Pic
 | 06 | Constants Without Enums | [chapters/06-constants-without-enums-as-const](chapters/06-constants-without-enums-as-const) |
 | 07 | Modules | [chapters/07-modules-import-export-and-type-only-imports](chapters/07-modules-import-export-and-type-only-imports) |
 | 08 | Classes Without the Baggage | [chapters/08-classes-without-baggage](chapters/08-classes-without-baggage) |
+| 09 | Generics | [chapters/09-generics-write-it-once-use-it-safely](chapters/09-generics-write-it-once-use-it-safely) |
 
 More chapters are added as the series is released.
 
