@@ -15,6 +15,7 @@ jobs:
           - chapters/01-run-typescript-without-a-build-step
           - chapters/02-functions-that-keep-their-promises
           - chapters/03-shaping-data-objects-arrays-and-tuples
+          - chapters/04-either-this-or-that-union-and-literal-types
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
