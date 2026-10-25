@@ -45,6 +45,7 @@ jobs:
           - chapters/31-testing-with-node-test
           - chapters/32-the-whole-project-end-to-end
           - chapters/33-npm-scripts-that-run-your-project
+          - chapters/34-declaration-files-d-ts
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4

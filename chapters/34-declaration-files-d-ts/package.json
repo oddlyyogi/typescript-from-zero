@@ -1,0 +1,13 @@
+{
+  "name": "tickets",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node main.ts",
+    "check": "tsc",
+    "types": "tsc --declaration --emitDeclarationOnly --noEmit false --outDir dist"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.0"
+  }
+}
