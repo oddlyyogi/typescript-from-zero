@@ -29,6 +29,7 @@ Every chapter lives in its own folder under `chapters/` and runs on its own. Pic
 | 14 | Mapped Types | [chapters/14-mapped-types-loops-for-types](chapters/14-mapped-types-loops-for-types) |
 | 15 | Conditional Types and infer | [chapters/15-conditional-types-and-infer](chapters/15-conditional-types-and-infer) |
 | 16 | Template Literal Types | [chapters/16-template-literal-types](chapters/16-template-literal-types) |
+| 17 | Null and Undefined | [chapters/17-null-and-undefined-safely](chapters/17-null-and-undefined-safely) |
 
 More chapters are added as the series is released.
 
