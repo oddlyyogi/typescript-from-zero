@@ -39,6 +39,7 @@ jobs:
           - chapters/25-project-setup-node-typescript
           - chapters/26-the-ticket-store-map-readonly
           - chapters/27-saving-tickets-to-json-files
+          - chapters/28-command-line-args-and-exhaustive-switch
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
