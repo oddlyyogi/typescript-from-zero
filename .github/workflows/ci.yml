@@ -38,6 +38,7 @@ jobs:
           - chapters/24-type-assertions-as-const-satisfies
           - chapters/25-project-setup-node-typescript
           - chapters/26-the-ticket-store-map-readonly
+          - chapters/27-saving-tickets-to-json-files
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
