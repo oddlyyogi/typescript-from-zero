@@ -48,6 +48,7 @@ Every chapter lives in its own folder under `chapters/` and runs on its own. Pic
 | 33 | npm Scripts That Run Your Project | [chapters/33-npm-scripts-that-run-your-project](chapters/33-npm-scripts-that-run-your-project) |
 | 34 | Declaration Files (.d.ts) Explained | [chapters/34-declaration-files-d-ts](chapters/34-declaration-files-d-ts) |
 | 35 | Building for Production with tsc | [chapters/35-building-for-production-tsc-emit](chapters/35-building-for-production-tsc-emit) |
+| 36 | Stack Traces and Source Maps | [chapters/36-stack-traces-and-source-maps](chapters/36-stack-traces-and-source-maps) |
 
 More chapters are added as the series is released.
 

@@ -1,0 +1,13 @@
+{
+  "name": "tickets",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node main.ts",
+    "build": "tsc -p tsconfig.build.json",
+    "debug": "node --enable-source-maps dist/main.js"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.0"
+  }
+}
