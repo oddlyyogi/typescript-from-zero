@@ -25,6 +25,7 @@ Every chapter lives in its own folder under `chapters/` and runs on its own. Pic
 | 10 | Utility Types | [chapters/10-utility-types-partial-pick-omit-readonly](chapters/10-utility-types-partial-pick-omit-readonly) |
 | 11 | Interface or Type | [chapters/11-interface-or-type-alias](chapters/11-interface-or-type-alias) |
 | 12 | Dictionaries | [chapters/12-dictionaries-records-maps-index-signatures](chapters/12-dictionaries-records-maps-index-signatures) |
+| 13 | Functions as Values | [chapters/13-functions-as-values-callbacks](chapters/13-functions-as-values-callbacks) |
 
 More chapters are added as the series is released.
 

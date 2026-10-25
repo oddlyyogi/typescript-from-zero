@@ -24,6 +24,7 @@ jobs:
           - chapters/10-utility-types-partial-pick-omit-readonly
           - chapters/11-interface-or-type-alias
           - chapters/12-dictionaries-records-maps-index-signatures
+          - chapters/13-functions-as-values-callbacks
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
