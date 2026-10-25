@@ -34,6 +34,7 @@ Every chapter lives in its own folder under `chapters/` and runs on its own. Pic
 | 19 | Type Guards | [chapters/19-type-guards](chapters/19-type-guards) |
 | 20 | Error Handling | [chapters/20-error-handling-throw-catch-result](chapters/20-error-handling-throw-catch-result) |
 | 21 | Async, Await and Promises in TypeScript | [chapters/21-async-await-and-promises](chapters/21-async-await-and-promises) |
+| 22 | Validating Data by Hand | [chapters/22-validating-data-by-hand](chapters/22-validating-data-by-hand) |
 
 More chapters are added as the series is released.
 
