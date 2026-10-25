@@ -42,6 +42,7 @@ jobs:
           - chapters/28-command-line-args-and-exhaustive-switch
           - chapters/29-filter-sort-group-generics
           - chapters/30-state-machines-discriminated-unions
+          - chapters/31-testing-with-node-test
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4

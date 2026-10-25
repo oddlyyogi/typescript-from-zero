@@ -1,0 +1,12 @@
+{
+  "name": "tickets",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test --test-reporter=spec",
+    "check": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.0"
+  }
+}
