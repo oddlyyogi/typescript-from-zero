@@ -32,6 +32,7 @@ Every chapter lives in its own folder under `chapters/` and runs on its own. Pic
 | 17 | Null and Undefined | [chapters/17-null-and-undefined-safely](chapters/17-null-and-undefined-safely) |
 | 18 | unknown vs any | [chapters/18-unknown-vs-any](chapters/18-unknown-vs-any) |
 | 19 | Type Guards | [chapters/19-type-guards](chapters/19-type-guards) |
+| 20 | Error Handling | [chapters/20-error-handling-throw-catch-result](chapters/20-error-handling-throw-catch-result) |
 
 More chapters are added as the series is released.
 

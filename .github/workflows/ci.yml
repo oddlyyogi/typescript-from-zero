@@ -31,6 +31,7 @@ jobs:
           - chapters/17-null-and-undefined-safely
           - chapters/18-unknown-vs-any
           - chapters/19-type-guards
+          - chapters/20-error-handling-throw-catch-result
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
