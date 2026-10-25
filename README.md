@@ -28,6 +28,7 @@ Every chapter lives in its own folder under `chapters/` and runs on its own. Pic
 | 13 | Functions as Values | [chapters/13-functions-as-values-callbacks](chapters/13-functions-as-values-callbacks) |
 | 14 | Mapped Types | [chapters/14-mapped-types-loops-for-types](chapters/14-mapped-types-loops-for-types) |
 | 15 | Conditional Types and infer | [chapters/15-conditional-types-and-infer](chapters/15-conditional-types-and-infer) |
+| 16 | Template Literal Types | [chapters/16-template-literal-types](chapters/16-template-literal-types) |
 
 More chapters are added as the series is released.
 
