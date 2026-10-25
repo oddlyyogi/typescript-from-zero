@@ -44,6 +44,7 @@ jobs:
           - chapters/30-state-machines-discriminated-unions
           - chapters/31-testing-with-node-test
           - chapters/32-the-whole-project-end-to-end
+          - chapters/33-npm-scripts-that-run-your-project
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4

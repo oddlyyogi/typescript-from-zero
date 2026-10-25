@@ -45,6 +45,7 @@ Every chapter lives in its own folder under `chapters/` and runs on its own. Pic
 | 30 | State Machines with Discriminated Unions | [chapters/30-state-machines-discriminated-unions](chapters/30-state-machines-discriminated-unions) |
 | 31 | Testing TypeScript with node | [chapters/31-testing-with-node-test](chapters/31-testing-with-node-test) |
 | 32 | The Whole Project | [chapters/32-the-whole-project-end-to-end](chapters/32-the-whole-project-end-to-end) |
+| 33 | npm Scripts That Run Your Project | [chapters/33-npm-scripts-that-run-your-project](chapters/33-npm-scripts-that-run-your-project) |
 
 More chapters are added as the series is released.
 
