@@ -19,6 +19,7 @@ jobs:
           - chapters/05-narrowing-let-typescript-follow-your-checks
           - chapters/06-constants-without-enums-as-const
           - chapters/07-modules-import-export-and-type-only-imports
+          - chapters/08-classes-without-baggage
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
