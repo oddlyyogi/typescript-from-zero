@@ -43,6 +43,7 @@ jobs:
           - chapters/29-filter-sort-group-generics
           - chapters/30-state-machines-discriminated-unions
           - chapters/31-testing-with-node-test
+          - chapters/32-the-whole-project-end-to-end
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
