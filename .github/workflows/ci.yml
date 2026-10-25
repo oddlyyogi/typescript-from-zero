@@ -36,6 +36,7 @@ jobs:
           - chapters/22-validating-data-by-hand
           - chapters/23-tsconfig-strictness-flags
           - chapters/24-type-assertions-as-const-satisfies
+          - chapters/25-project-setup-node-typescript
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4

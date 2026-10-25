@@ -37,6 +37,7 @@ Every chapter lives in its own folder under `chapters/` and runs on its own. Pic
 | 22 | Validating Data by Hand | [chapters/22-validating-data-by-hand](chapters/22-validating-data-by-hand) |
 | 23 | tsconfig | [chapters/23-tsconfig-strictness-flags](chapters/23-tsconfig-strictness-flags) |
 | 24 | Type Assertions | [chapters/24-type-assertions-as-const-satisfies](chapters/24-type-assertions-as-const-satisfies) |
+| 25 | A Real Project | [chapters/25-project-setup-node-typescript](chapters/25-project-setup-node-typescript) |
 
 More chapters are added as the series is released.
 
