@@ -49,6 +49,7 @@ jobs:
           - chapters/35-building-for-production-tsc-emit
           - chapters/36-stack-traces-and-source-maps
           - chapters/37-subpath-imports-no-more-dot-dot-slash
+          - chapters/38-jsdoc-types-in-javascript-files
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
