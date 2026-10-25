@@ -1,0 +1,14 @@
+{
+  "name": "tickets",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node main.ts",
+    "check": "tsc",
+    "build": "tsc -p tsconfig.build.json",
+    "prebuild": "rm -rf dist"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.0"
+  }
+}
