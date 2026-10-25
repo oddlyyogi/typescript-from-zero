@@ -18,6 +18,7 @@ Every chapter lives in its own folder under `chapters/` and runs on its own. Pic
 | 03 | Shaping Data | [chapters/03-shaping-data-objects-arrays-and-tuples](chapters/03-shaping-data-objects-arrays-and-tuples) |
 | 04 | Either This or That | [chapters/04-either-this-or-that-union-and-literal-types](chapters/04-either-this-or-that-union-and-literal-types) |
 | 05 | Narrowing | [chapters/05-narrowing-let-typescript-follow-your-checks](chapters/05-narrowing-let-typescript-follow-your-checks) |
+| 06 | Constants Without Enums | [chapters/06-constants-without-enums-as-const](chapters/06-constants-without-enums-as-const) |
 
 More chapters are added as the series is released.
 

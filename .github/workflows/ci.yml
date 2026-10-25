@@ -17,6 +17,7 @@ jobs:
           - chapters/03-shaping-data-objects-arrays-and-tuples
           - chapters/04-either-this-or-that-union-and-literal-types
           - chapters/05-narrowing-let-typescript-follow-your-checks
+          - chapters/06-constants-without-enums-as-const
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
