@@ -23,6 +23,7 @@ jobs:
           - chapters/09-generics-write-it-once-use-it-safely
           - chapters/10-utility-types-partial-pick-omit-readonly
           - chapters/11-interface-or-type-alias
+          - chapters/12-dictionaries-records-maps-index-signatures
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4

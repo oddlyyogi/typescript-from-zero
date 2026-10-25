@@ -24,6 +24,7 @@ Every chapter lives in its own folder under `chapters/` and runs on its own. Pic
 | 09 | Generics | [chapters/09-generics-write-it-once-use-it-safely](chapters/09-generics-write-it-once-use-it-safely) |
 | 10 | Utility Types | [chapters/10-utility-types-partial-pick-omit-readonly](chapters/10-utility-types-partial-pick-omit-readonly) |
 | 11 | Interface or Type | [chapters/11-interface-or-type-alias](chapters/11-interface-or-type-alias) |
+| 12 | Dictionaries | [chapters/12-dictionaries-records-maps-index-signatures](chapters/12-dictionaries-records-maps-index-signatures) |
 
 More chapters are added as the series is released.
 
