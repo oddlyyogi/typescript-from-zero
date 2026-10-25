@@ -30,6 +30,7 @@ Every chapter lives in its own folder under `chapters/` and runs on its own. Pic
 | 15 | Conditional Types and infer | [chapters/15-conditional-types-and-infer](chapters/15-conditional-types-and-infer) |
 | 16 | Template Literal Types | [chapters/16-template-literal-types](chapters/16-template-literal-types) |
 | 17 | Null and Undefined | [chapters/17-null-and-undefined-safely](chapters/17-null-and-undefined-safely) |
+| 18 | unknown vs any | [chapters/18-unknown-vs-any](chapters/18-unknown-vs-any) |
 
 More chapters are added as the series is released.
 

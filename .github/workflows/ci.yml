@@ -29,6 +29,7 @@ jobs:
           - chapters/15-conditional-types-and-infer
           - chapters/16-template-literal-types
           - chapters/17-null-and-undefined-safely
+          - chapters/18-unknown-vs-any
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
