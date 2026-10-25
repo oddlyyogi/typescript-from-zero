@@ -41,6 +41,7 @@ Every chapter lives in its own folder under `chapters/` and runs on its own. Pic
 | 26 | The Ticket Store | [chapters/26-the-ticket-store-map-readonly](chapters/26-the-ticket-store-map-readonly) |
 | 27 | Saving Tickets to a JSON File Safely | [chapters/27-saving-tickets-to-json-files](chapters/27-saving-tickets-to-json-files) |
 | 28 | Command Line Arguments and Exhaustive Switch | [chapters/28-command-line-args-and-exhaustive-switch](chapters/28-command-line-args-and-exhaustive-switch) |
+| 29 | Filter, Sort and Group Tickets with Generics | [chapters/29-filter-sort-group-generics](chapters/29-filter-sort-group-generics) |
 
 More chapters are added as the series is released.
 
