@@ -38,6 +38,7 @@ Every chapter lives in its own folder under `chapters/` and runs on its own. Pic
 | 23 | tsconfig | [chapters/23-tsconfig-strictness-flags](chapters/23-tsconfig-strictness-flags) |
 | 24 | Type Assertions | [chapters/24-type-assertions-as-const-satisfies](chapters/24-type-assertions-as-const-satisfies) |
 | 25 | A Real Project | [chapters/25-project-setup-node-typescript](chapters/25-project-setup-node-typescript) |
+| 26 | The Ticket Store | [chapters/26-the-ticket-store-map-readonly](chapters/26-the-ticket-store-map-readonly) |
 
 More chapters are added as the series is released.
 

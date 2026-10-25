@@ -37,6 +37,7 @@ jobs:
           - chapters/23-tsconfig-strictness-flags
           - chapters/24-type-assertions-as-const-satisfies
           - chapters/25-project-setup-node-typescript
+          - chapters/26-the-ticket-store-map-readonly
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
