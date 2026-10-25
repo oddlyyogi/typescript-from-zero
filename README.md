@@ -52,6 +52,7 @@ Every chapter lives in its own folder under `chapters/` and runs on its own. Pic
 | 37 | Subpath Imports | [chapters/37-subpath-imports-no-more-dot-dot-slash](chapters/37-subpath-imports-no-more-dot-dot-slash) |
 | 38 | Type-Checking JavaScript with JSDoc | [chapters/38-jsdoc-types-in-javascript-files](chapters/38-jsdoc-types-in-javascript-files) |
 | 39 | Settings and .env Files in Node | [chapters/39-settings-and-env-files](chapters/39-settings-and-env-files) |
+| 40 | CI with GitHub Actions for TypeScript | [chapters/40-continuous-integration-with-github-actions](chapters/40-continuous-integration-with-github-actions) |
 
 More chapters are added as the series is released.
 
