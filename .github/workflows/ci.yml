@@ -25,6 +25,7 @@ jobs:
           - chapters/11-interface-or-type-alias
           - chapters/12-dictionaries-records-maps-index-signatures
           - chapters/13-functions-as-values-callbacks
+          - chapters/14-mapped-types-loops-for-types
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
