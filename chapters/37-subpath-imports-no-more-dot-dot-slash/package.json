@@ -1,0 +1,16 @@
+{
+  "name": "tickets",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node app/cli/main.ts",
+    "check": "tsc"
+  },
+  "imports": {
+    "#lib/*": "./lib/*",
+    "#ops": "./lib/ops.ts"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.0"
+  }
+}

@@ -49,6 +49,7 @@ Every chapter lives in its own folder under `chapters/` and runs on its own. Pic
 | 34 | Declaration Files (.d.ts) Explained | [chapters/34-declaration-files-d-ts](chapters/34-declaration-files-d-ts) |
 | 35 | Building for Production with tsc | [chapters/35-building-for-production-tsc-emit](chapters/35-building-for-production-tsc-emit) |
 | 36 | Stack Traces and Source Maps | [chapters/36-stack-traces-and-source-maps](chapters/36-stack-traces-and-source-maps) |
+| 37 | Subpath Imports | [chapters/37-subpath-imports-no-more-dot-dot-slash](chapters/37-subpath-imports-no-more-dot-dot-slash) |
 
 More chapters are added as the series is released.
 
