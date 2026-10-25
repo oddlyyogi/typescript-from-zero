@@ -19,6 +19,7 @@ Every chapter lives in its own folder under `chapters/` and runs on its own. Pic
 | 04 | Either This or That | [chapters/04-either-this-or-that-union-and-literal-types](chapters/04-either-this-or-that-union-and-literal-types) |
 | 05 | Narrowing | [chapters/05-narrowing-let-typescript-follow-your-checks](chapters/05-narrowing-let-typescript-follow-your-checks) |
 | 06 | Constants Without Enums | [chapters/06-constants-without-enums-as-const](chapters/06-constants-without-enums-as-const) |
+| 07 | Modules | [chapters/07-modules-import-export-and-type-only-imports](chapters/07-modules-import-export-and-type-only-imports) |
 
 More chapters are added as the series is released.
 
